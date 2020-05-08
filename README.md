@@ -20,3 +20,11 @@ print(sixMonths)
 sixMonths = {1:31, 2:28, 3:31, 4:30, 5:31, 6:30}
 del sixMonths[5]
 print(sixMonths)
+
+Assigning elememt to a list
+
+my_list = [35,15,20,30]
+print(my_list)
+my_list.append(25)
+print(my_list)
+
